@@ -1,6 +1,6 @@
 # **ข้อกำหนดการทำงานเบื้องต้น**
 
-<img src="https://github.com/phoom1477/FM_CameraControl/Preview.JPG" alt="preview" width="500">
+<img src="https://github.com/phoom1477/FM_CameraControl/blob/master/Preview.JPG" alt="preview" width="500">
 
 ### **PC1**
 ```
@@ -31,7 +31,7 @@
     > หาก PC1 สั่งให้เริ่มต้นทำงานใหม่ จึงเริ่มทำงานใหม่ตั้งแต่ต้น
 ```
 
->ข้อกำหนดอื่นๆ
+**ข้อกำหนดอื่นๆ**
 
 - ขนาดกระดาษภาพ 10x10 cm จำนวน 16 แผ่น (รูปแบบรหัส Binary)
 
